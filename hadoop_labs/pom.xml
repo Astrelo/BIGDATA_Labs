@@ -43,10 +43,10 @@
 <configuration>
 <archive>
 <manifest>
-<mainClass>hadoop_labs.HadoopFileStatus</mainClass>
+<mainClass>hadoop_labs.WriteHDFS</mainClass>
 </manifest>
 </archive>
-<finalName>HadoopFileStatus</finalName>
+<finalName>WriteHDFS</finalName>
 </configuration>
 </plugin>
 </plugins>

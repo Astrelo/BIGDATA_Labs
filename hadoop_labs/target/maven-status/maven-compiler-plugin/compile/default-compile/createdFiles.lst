@@ -1,2 +1,4 @@
 hadoop_labs\Main.class
+hadoop_labs\WriteHDFS.class
+hadoop_labs\ReadHDFS.class
 hadoop_labs\HadoopFileStatus.class
